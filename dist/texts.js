@@ -24,7 +24,7 @@ const texts = {
         run: "启动",
         repeats: "次数:",
         confirmation: "命令已发送!"
-    }
+    },
     "de": {
         mode: "Modus",
         goToTarget: "Gehe zum Zielpunkt",
