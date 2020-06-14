@@ -16,6 +16,15 @@ const texts = {
         repeats: "Times:",
         confirmation: "Command sent!"
     },
+    "zh": {
+        mode: "模式",
+        goToTarget: "去往目标点",
+        zonedCleanup: "划定区域清洁",
+        zones: "指定区域清洁",
+        run: "启动",
+        repeats: "次数:",
+        confirmation: "命令已发送!"
+    }
     "de": {
         mode: "Modus",
         goToTarget: "Gehe zum Zielpunkt",
